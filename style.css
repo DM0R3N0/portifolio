@@ -323,3 +323,18 @@ header{
     object-fit: cover;
     width: 100%;
 }
+
+.sessao-contato{
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sessao-orcamento{
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
